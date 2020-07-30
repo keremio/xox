@@ -1,0 +1,10 @@
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\bin\Debug\xox.exe.config
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\bin\Debug\xox.exe
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\bin\Debug\xox.pdb
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.csprojAssemblyReference.cache
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.Form1.resources
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.Properties.Resources.resources
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.csproj.GenerateResource.cache
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.csproj.CoreCompileInputs.cache
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.exe
+C:\Users\Kerem Yakutlu\source\repos\xox\xox\obj\Debug\xox.pdb
